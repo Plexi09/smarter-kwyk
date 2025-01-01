@@ -14,6 +14,7 @@ Ce script permet d'extraire facilement toutes les questions des exercices Kwyk e
 
 ## Avertissements
 
+- L'utilisation de la console du navigateur peut générer des avertissements ou alertes dans certains navigateurs. Ces messages sont des mesures de sécurité standard, vous indiquant que du code personnalisé peut être exécuté. Ce script est totalement sécurisé et n'affecte en rien le fonctionnement de votre navigateur ni de votre appareil et il ne représente aucun risque de sécurité pour votre compte Kwyk. De manière générale, il est recommandé de lire le code source des script avant de les exécuter. 
 - Le script a été testé sur Firefox et Microsoft Edge. Il se peut qu'il ne fonctionne pas sur certains navigateurs. Il est recommandé d'utiliser Firefox, car il permet de copier du texte depuis les boîtes de dialogue.
 - Ce projet a une finalité strictement éducative et ne doit pas être utilisé pour tricher. L'auteur du script ne peut être tenu responsable de son utilisation, ni des conséquences qui en découlent. L'utilisateur est seul responsable de l'usage qu'il fait du script.
 
