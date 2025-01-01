@@ -18,6 +18,10 @@ Ce script permet d'extraire facilement toutes les questions des exercices Kwyk e
 - Le script a été testé sur Firefox et Microsoft Edge. Il se peut qu'il ne fonctionne pas sur certains navigateurs. Il est recommandé d'utiliser Firefox, car il permet de copier du texte depuis les boîtes de dialogue.
 - Ce projet a une finalité strictement éducative et ne doit pas être utilisé pour tricher. L'auteur du script ne peut être tenu responsable de son utilisation, ni des conséquences qui en découlent. L'utilisateur est seul responsable de l'usage qu'il fait du script.
 
+## Contributions
+
+Les contributions sont les bienvenues ! Si vous souhaitez contribuer au projet, il vous suffit d'ouvrir une issue ou une pull request.
+
 ## Licence
 
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Voir [LICENSE](LICENSE.md)
