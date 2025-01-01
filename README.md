@@ -18,4 +18,4 @@ Ce script permet d'extraire facilement toutes les questions des exercices Kwyk e
 
 ## Licence
 
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Voir [LISENCE.md]
+Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Voir [LICENSE](LICENSE.md)
