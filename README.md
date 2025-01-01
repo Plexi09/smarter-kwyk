@@ -2,7 +2,7 @@
 
 Ce script permet d'extraire facilement toutes les questions des exercices Kwyk en utilisant un script JavaScript à exécuter dans la console de votre navigateur. Les questions sont extraites de tous les éléments ayant la classe `exercise_question`.
 
-## Installation et Utilisation
+## Utilisation
 
 1. Accédez à l'exercice dont vous souhaitez récupérer les questions.
 2. Avant chaque utilisation du script, rafraîchissez la page (en appuyant sur `F5`, `Ctrl+F5` ou `Ctrl+R`.
