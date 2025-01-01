@@ -5,7 +5,7 @@ Ce script permet d'extraire facilement toutes les questions des exercices Kwyk e
 ## Installation et Utilisation
 
 1. Accédez à l'exercice dont vous souhaitez récupérer les questions.
-2. Avant chaque utilisation du script, rafraîchissez la page avec F5.
+2. Avant chaque utilisation du script, rafraîchissez la page (en appuyant sur `F5`, `Ctrl+F5` ou `Ctrl+R`.
 3. Ouvrez les outils de développement de votre navigateur (en appuyant sur `F12` ou `Ctrl+Shift+I`).
 4. Allez dans l'onglet "Console".
 5. Si le navigateur bloque le collage, tapez `"autoriser le collage"` dans la console pour autoriser cette action.
